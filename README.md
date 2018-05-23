@@ -44,6 +44,7 @@ This tutorial has never been presented before. Yet, some parts about the present
 **Oscar Luis Vera Pérez:** PhD Student at Inria Rennes, France since 2017 and member of the [DiverSE research group](https://diverse.irisa.fr/). He has been involved as a lecturer in the course of Software Validation and Verification for master students at the University of Rennes. He received his B.S in Computer Science in 2007 and a M.S degree in Mathematics in 2012 at the University of Havana Cuba where he also taught the subjects of Programming and Compiling. His current research interests are related to software testing, mutation testing and search-based software engineering.
 
 ![Vincent Massol](https://forum.xwiki.org//user_avatar/discourse.xwiki.org/vmassol/150/6_1.png)
+
 **[Vincent Massol](https://about.me/vmassol):** CTO of [XWiki SAS](https://www.xwiki.com/fr/) and an active committer of the XWiki open source project. Before being paid to work on open source he spent over 10 years working nights and week ends having fun on various open source projects (committer on Apache Maven, creator of Apache Cactus and Codehaus Cargo to name a few). Vincent also co-authored 3 books: JUnit in Action, Maven: A Developer’s Notebook and Better Builds with Maven. He is a regular speaker at IT and Java conferences and also a member of [LesCastCodeurs podcast](https://lescastcodeurs.com/), a French podcast focusing on news in the Java world at large.
 
 <img src="http://people.rennes.inria.fr/Benoit.Baudry/pics/benoit-baudry-2014.png" alt="Benoit Baudry" width="150" height="150" />
