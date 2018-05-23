@@ -39,13 +39,12 @@ This tutorial has never been presented before. Yet, some parts about the present
 * **Mutate and Test your Tests**: Talk given by Benoit Baudry at [EclipseCon Europe 2017](https://www.eclipsecon.org/europe2017/session/mutate-and-test-your-tests) in front of approx. 60 Java developers and testers. This talk was practically oriented, based on concrete examples that illustrate the concepts of **pseudo-tested** methods and the relation with test suites. The [slides](https://www.slideshare.net/slideshow/embed_code/81650071) and [video](https://www.youtube.com/watch?v=rlfcGUDkSjQ&t=) for this talk are publicly available. They illustrate the type of content that serves as a basis for the tutorial proposed here.
 
 ## Instructors
-
-![Oscar L. Vera](http://ssbse18.irisa.fr/img/team/oscar.vera.jpg =150x150)
+<img src="http://ssbse18.irisa.fr/img/team/oscar.vera.jpg" alt="Oscar L. Vera" width="150" height="150" />
 **Oscar Luis Vera Pérez:** PhD Student at Inria Rennes, France since 2017 and member of the [DiverSE research group](https://diverse.irisa.fr/). He has been involved as a lecturer in the course of Software Validation and Verification for master students at the University of Rennes. He received his B.S in Computer Science in 2007 and a M.S degree in Mathematics in 2012 at the University of Havana Cuba where he also taught the subjects of Programming and Compiling. His current research interests are related to software testing, mutation testing and search-based software engineering.
 
 ![Vincent Massol](https://forum.xwiki.org//user_avatar/discourse.xwiki.org/vmassol/150/6_1.png)
 **[Vincent Massol](https://about.me/vmassol):** CTO of [XWiki SAS](https://www.xwiki.com/fr/) and an active committer of the XWiki open source project. Before being paid to work on open source he spent over 10 years working nights and week ends having fun on various open source projects (committer on Apache Maven, creator of Apache Cactus and Codehaus Cargo to name a few). Vincent also co-authored 3 books: JUnit in Action, Maven: A Developer’s Notebook and Better Builds with Maven. He is a regular speaker at IT and Java conferences and also a member of [LesCastCodeurs podcast](https://lescastcodeurs.com/), a French podcast focusing on news in the Java world at large.
 
-![Benoit Baudry](http://people.rennes.inria.fr/Benoit.Baudry/pics/benoit-baudry-2014.png =150x150) 
+<img src="http://people.rennes.inria.fr/Benoit.Baudry/pics/benoit-baudry-2014.png" alt="Benoit Baudry" width="150" height="150" />
 **[Benoit Baudry](https://softwarediversity.eu/):** Professor in software technology at the KTH Royal Institute of Technology (Stockholm, Sweden). Until August 2017 he was a research scientist at INRIA, France, where he led the [DiverSE research group](https://diverse.irisa.fr/) since 2013. His research interests are in the area of automatic software testing, software diversity and DevOps. He has been teaching software testing and automatic software engineering at Universities and companies since 2004. He regularly gives talks in academic and industry conferences.
 
